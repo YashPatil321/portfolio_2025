@@ -7,6 +7,7 @@ image: /images/mario_animation.png
 hide: true
 ---
 
+HELOO MY NAME IS YASH
 <!-- Liquid:  statements -->
 
 <!-- Include submenu from _includes to top of pages -->
